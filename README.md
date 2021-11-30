@@ -1,2 +1,11 @@
 # SnakeArduino
-Snake (not game) made in Tinkercad (Arduino).
+
+Реализация передвижения змейки на поле 4 на 4, состоящем из светодиодов. Управление змейкой осуществляется посредством 4-х кнопок. Змейка не изменяет своей длины и не может "укусить" себя за хвост.
+
+Для обработки нажатий кнопок был использован [класс](https://github.com/roman656/Button).
+
+# Рисованная схема
+![Рисованная схема](https://github.com/roman656/SnakeArduino/blob/main/Scheme.png)
+
+# Демонстрация работы
+![Демонстрация работы](https://github.com/roman656/SnakeArduino/blob/main/SnakeDemo.png)
